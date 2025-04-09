@@ -54,7 +54,6 @@ Este proyecto tiene una implementación en el lenguaje de programación JAVA usa
     ├── gradle.properties
     ├── gradlew
     ├── gradlew.bat
-    ├── README copy.md
     ├── README.md
     └── settings.gradle.kts
 ```
