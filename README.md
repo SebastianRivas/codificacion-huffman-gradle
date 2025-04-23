@@ -1,7 +1,9 @@
 # CODIFICACION HUFFMAN (JAVA & GRADLE)
+
 Este proyecto tiene una implementación en el lenguaje de programación JAVA usando el gestor de paquetes GRADLE del algoritmo de compresión de datos llamado Codificación Huffman.
 
 ## ESTRUCTURA DE DIRECCTORIOS 🗂️
+
 ```bash
     .
     ├── app
@@ -59,26 +61,31 @@ Este proyecto tiene una implementación en el lenguaje de programación JAVA usa
 ```
 
 ## EJECUCION DEL PROYECTO ⌨️
+
 ⚠️ La compilacion y posterior ejecucion del proyecto se debe hacer desde la raiz del proyecto ⚠️
 
 ⚠️ La salida del programa se almacena en ⚠️
+
 ```bash
 app/src/main/java/org/CodificacionHuffman/output/text
 ```
 
-* Compilacion y ejecucion
+- Compilacion y ejecucion
 
 Compilacion
+
 ```bash
     ./gradlew build
 ```
 
 Construccion del JAR
+
 ```bash
     ./gradlew jar
 ```
 
 Ejecucion
+
 ```bash
     ./gradlew run
 ```
